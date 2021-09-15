@@ -1,0 +1,3 @@
+name: FunctionAppWithoutSecret
+runtime: dotnet
+description: A demo Pulumi code to show how to build an Azure Function that does no use the AzureWebJobsStorage secret.
